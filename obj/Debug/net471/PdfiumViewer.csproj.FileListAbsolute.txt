@@ -1,0 +1,13 @@
+C:\Work\britishcouncil\NewRs\PdfiumViewer\bin\Debug\net471\x64\pdfium.dll
+C:\Work\britishcouncil\NewRs\PdfiumViewer\bin\Debug\net471\x86\pdfium.dll
+C:\Work\britishcouncil\NewRs\PdfiumViewer\bin\Debug\net471\PdfiumViewer.dll
+C:\Work\britishcouncil\NewRs\PdfiumViewer\bin\Debug\net471\PdfiumViewer.pdb
+C:\Work\britishcouncil\NewRs\PdfiumViewer\bin\Debug\net471\System.Drawing.Common.dll
+C:\Work\britishcouncil\NewRs\PdfiumViewer\obj\Debug\net471\PdfiumViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\britishcouncil\NewRs\PdfiumViewer\obj\Debug\net471\PdfiumViewer.AssemblyInfoInputs.cache
+C:\Work\britishcouncil\NewRs\PdfiumViewer\obj\Debug\net471\PdfiumViewer.AssemblyInfo.cs
+C:\Work\britishcouncil\NewRs\PdfiumViewer\obj\Debug\net471\PdfiumViewer.csproj.CoreCompileInputs.cache
+C:\Work\britishcouncil\NewRs\PdfiumViewer\obj\Debug\net471\PdfiumViewer.csproj.Fody.CopyLocal.cache
+C:\Work\britishcouncil\NewRs\PdfiumViewer\obj\Debug\net471\PdfiumViewer.csproj.CopyComplete
+C:\Work\britishcouncil\NewRs\PdfiumViewer\obj\Debug\net471\PdfiumViewer.dll
+C:\Work\britishcouncil\NewRs\PdfiumViewer\obj\Debug\net471\PdfiumViewer.pdb

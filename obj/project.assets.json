@@ -183,9 +183,9 @@
   "project": {
     "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\PdfiumViewer.csproj",
+      "projectUniqueName": "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\BCChina.PdfiumViewer.csproj",
       "projectName": "PdfiumViewer.Wpf",
-      "projectPath": "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\PdfiumViewer.csproj",
+      "projectPath": "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\BCChina.PdfiumViewer.csproj",
       "packagesPath": "C:\\Users\\BaoleiZhang\\.nuget\\packages\\",
       "outputPath": "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\obj\\",
       "projectStyle": "PackageReference",

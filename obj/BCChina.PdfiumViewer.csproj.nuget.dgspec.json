@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\BCChina.PdfiumViewer.csproj": {}
+  },
+  "projects": {
+    "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\BCChina.PdfiumViewer.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\BCChina.PdfiumViewer.csproj",
+        "projectName": "PdfiumViewer.Wpf",
+        "projectPath": "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\BCChina.PdfiumViewer.csproj",
+        "packagesPath": "C:\\Users\\BaoleiZhang\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BaoleiZhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/BCChina/5d7fd88c-88ec-4606-affd-89fd621e3692/_packaging/BCChinaNuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "targetAlias": "net471",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "targetAlias": "net471",
+          "dependencies": {
+            "PdfiumViewer.Native.x86.v8-xfa": {
+              "target": "Package",
+              "version": "[2018.4.8.256, )"
+            },
+            "PdfiumViewer.Native.x86_64.v8-xfa": {
+              "target": "Package",
+              "version": "[2018.4.8.256, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.2.8, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
