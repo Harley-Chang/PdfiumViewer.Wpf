@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qL3IT8vEq02OAQO3sZaiF0SI0mq2y2B3G8bt9xcP8/XykdHVtJCg5UjJKbDUxzdPD2LZrF2xcsAkwAYNrS4n9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\britishcouncil\\NewRs\\PdfiumViewer\\PdfiumViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BaoleiZhang\\.nuget\\packages\\fody\\6.1.1\\fody.6.1.1.nupkg.sha512",
+    "C:\\Users\\BaoleiZhang\\.nuget\\packages\\pdfiumviewer.native.x86.v8-xfa\\2018.4.8.256\\pdfiumviewer.native.x86.v8-xfa.2018.4.8.256.nupkg.sha512",
+    "C:\\Users\\BaoleiZhang\\.nuget\\packages\\pdfiumviewer.native.x86_64.v8-xfa\\2018.4.8.256\\pdfiumviewer.native.x86_64.v8-xfa.2018.4.8.256.nupkg.sha512",
+    "C:\\Users\\BaoleiZhang\\.nuget\\packages\\propertychanged.fody\\3.2.8\\propertychanged.fody.3.2.8.nupkg.sha512",
+    "C:\\Users\\BaoleiZhang\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
